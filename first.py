@@ -1,6 +1,0 @@
-print("soma")
-print("anagha")
-print("banu")
-print("kethan")
-print("venu")
-print("deepak")
